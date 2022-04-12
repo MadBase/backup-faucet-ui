@@ -2,7 +2,7 @@
 
 Faucet for AliceNet Testing Networks 
 
-Utilizes newer virtualMintDeposit function via the makeshift-faucet-api
+Utilizes newer virtualMintDeposit function via the [dev-faucet-api](https://github.com/MadBase/dev-faucet-api)
 
 ## Install / Start
 
